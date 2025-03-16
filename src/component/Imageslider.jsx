@@ -9,9 +9,9 @@ function ImageSlider(){
 
 const images =[
 
-    "https://www.financialexpress.com/wp-content/uploads/2025/02/diya-2025-02-28T180255.196.jpg?w=350",
-    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4ZtjM-l-N0emSha80K2wYA0MAdGZi8d7pfg&s",
-   "https://www.planetware.com/wpimages/2020/02/france-in-pictures-beautiful-places-to-photograph-eiffel-tower.jpg",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSIJD61wPfXt6tpzA5szI1grrdpI-PZoadWg&s",
+    "https://i.tribune.com.pk/media/images/saudiamoon1740756519-0/saudiamoon1740756519-0.jpg",
+   "https://imgeng.jagran.com/images/2025/02/28/article/image/ramadan-2025-moon-sighting-1740760861495_v.webp",
    
 ]
 //function that handle 
